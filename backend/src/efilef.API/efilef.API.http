@@ -1,0 +1,6 @@
+@efilef.API_HostAddress = http://localhost:5294
+
+GET {{efilef.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
