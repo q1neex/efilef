@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="src/efilef.API/efilef.API.csproj" Id="0e21ebac-540c-4eef-a620-590ef7bedd4c" />
+  <Project Path="src/efilef.Application/efilef.Application.csproj" Id="c03dc131-a18e-4f24-a278-ae6022f6aa2c" />
+  <Project Path="src/efilef.Domain/efilef.Domain.csproj" Id="7ad8dc3e-97e8-496a-ad1d-78148e98d2f1" />
+  <Project Path="src/efilef.Infrastructure/efilef.Infrastructure.csproj" Id="bc77fd6c-80fa-4de9-9cc6-3f217701505f" />
 </Solution>
