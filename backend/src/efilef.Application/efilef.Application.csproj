@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\efilef.Domain\efilef.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
